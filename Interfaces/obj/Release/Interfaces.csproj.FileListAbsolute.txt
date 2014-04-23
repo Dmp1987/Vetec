@@ -1,0 +1,7 @@
+C:\Users\Poul Meyer\Documents\Visual Studio 2012\Projects\VetTecApp MkII\VetecSkemaApp\Interfaces\bin\Release\Interfaces.dll
+C:\Users\Poul Meyer\Documents\Visual Studio 2012\Projects\VetTecApp MkII\VetecSkemaApp\Interfaces\bin\Release\Interfaces.pdb
+C:\Users\Poul Meyer\Documents\Visual Studio 2012\Projects\VetTecApp MkII\VetecSkemaApp\Interfaces\bin\Release\Newtonsoft.Json.dll
+C:\Users\Poul Meyer\Documents\Visual Studio 2012\Projects\VetTecApp MkII\VetecSkemaApp\Interfaces\bin\Release\Newtonsoft.Json.xml
+C:\Users\Poul Meyer\Documents\Visual Studio 2012\Projects\VetTecApp MkII\VetecSkemaApp\Interfaces\obj\Release\Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\Poul Meyer\Documents\Visual Studio 2012\Projects\VetTecApp MkII\VetecSkemaApp\Interfaces\obj\Release\Interfaces.dll
+C:\Users\Poul Meyer\Documents\Visual Studio 2012\Projects\VetTecApp MkII\VetecSkemaApp\Interfaces\obj\Release\Interfaces.pdb

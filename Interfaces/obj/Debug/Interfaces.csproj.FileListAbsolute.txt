@@ -1,0 +1,7 @@
+C:\Users\Alexander\Desktop\VetecSkemaApp\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\Alexander\Desktop\VetecSkemaApp\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Alexander\Desktop\VetecSkemaApp\Interfaces\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alexander\Desktop\VetecSkemaApp\Interfaces\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Alexander\Desktop\VetecSkemaApp\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Desktop\VetecSkemaApp\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\Alexander\Desktop\VetecSkemaApp\Interfaces\obj\Debug\Interfaces.pdb
